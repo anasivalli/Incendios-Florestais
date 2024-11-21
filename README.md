@@ -1,4 +1,4 @@
-# Incendios-Florestais
+# Forest Fire (Linear Regression an Randome Forest)
 **GOAL:** make predictions of forest fires in areas of the Amazon region using data from INPE ans INMET, so that the responsable authorities can act proactively, preventing an enviromental disaster.
 
 # Intro
